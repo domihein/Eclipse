@@ -7,7 +7,7 @@ import java.util.LinkedList;
  * @author prog2-team
  *
  */
-public class QuickSortPenis
+public class QuickSort
 {
 	
 	
