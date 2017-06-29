@@ -18,5 +18,6 @@ object CarClass {
   def main(args: Array[String]): Unit = {
     val car1 = CarClass("Johannes", 7, true)
     println(CarClass.unapply(car1))
+    println("test")
   }
 }
